@@ -30,7 +30,6 @@ This project was created as a learning exercise to improve my Python programming
 ## 📸 Screenshot
 
 <img width="630" height="863" alt="image" src="https://github.com/user-attachments/assets/6e1dd365-8654-4b8e-9bb3-01433d8b14cf" />
-![Calculator Screenshot](screenshots/calculator.png)
 
 ---
 
