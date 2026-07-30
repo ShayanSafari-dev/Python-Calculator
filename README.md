@@ -80,8 +80,7 @@ Python-Calculator/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
-└── screenshots/
-      └── calculator.png
+└── calculator.png
 ```
 
 ---
