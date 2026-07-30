@@ -88,10 +88,8 @@ Python-Calculator/
 
 ## 🎯 Future Improvements
 
-- Scientific calculator mode
 - Calculation history
 - Themes (Light/Dark)
-- Memory buttons (M+, MR, MC)
 - Percentage support
 - Better code refactoring using classes
 
