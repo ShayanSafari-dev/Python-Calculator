@@ -47,7 +47,7 @@ This project was created as a learning exercise to improve my Python programming
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Python-Calculator.git
+git clone https://github.com/ShayanSafari-dev/Python-Calculator.git
 ```
 
 Go into the project
