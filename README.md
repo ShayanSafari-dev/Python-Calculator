@@ -29,7 +29,7 @@ This project was created as a learning exercise to improve my Python programming
 
 ## 📸 Screenshot
 
-![Calculator](screenshot/calculator.png)
+![Calculator](calculator.png)
 
 ---
 
